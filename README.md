@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @chilled-farmer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m not interested in Abstractions 
+- 🌱 I’m currently learning whatever i feel is required
+- 💞️ I’m looking to collaborate on anything that requires computational thinking 
+- 📫 How to reach me chilledfarmer@gmail.com    
+- 😄 Pronouns: MKC this shit
+- ⚡ Fun fact: Engineers are paid more than scientist 
 
-<!---
-chilled-farmer/chilled-farmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
